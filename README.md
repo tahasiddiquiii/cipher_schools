@@ -2,7 +2,7 @@
 
 ## cipher_schools
 
-making of a mobile application converted website's two pages into an apllication
+A front-end of a mobile app with Flutter that replicates the home page and courses page of the Cipher Schools' website. By leveraging the power of Flutter, I was able to develop the app quickly and efficiently, while ensuring high performance and smooth navigation.
 
 ## Download APK file
 https://drive.google.com/file/d/1lb8yCIgFnvWgmE6KtaofJQ5UMU42J_Eo/view?usp=share_link
